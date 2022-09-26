@@ -4,7 +4,7 @@ Le texte de règlement européen sur l’IA (AI Act)  aurait pu créer un label 
 On récupère les réponses à la consultation publique (pdfs non structurés) à partir du site de l'union européenne.
 ## 2/ EDA-Nettoyage
 * Extraction du texte des pdf
-* Normalisation/suppression stop words
+* Normalisation pour traitement NLP (stop words...)
 ## 3/ Analyse des arguments pour/arguments contre
 * a) Analyse de sentiment
 * b) Analyse par contraste (scattertext) des termes saillants entre feedback positif et négatif
